@@ -1,4 +1,7 @@
 AI Healthcare System – Project Description
+
+link- https://ai-healthcare-system.netlify.app/
+
 Overview
 
 The AI Healthcare System is an intelligent platform designed to assist doctors, patients, and healthcare institutions by leveraging Artificial Intelligence (AI) and Machine Learning (ML). It aims to provide efficient diagnosis, predictive analysis, and personalized treatment recommendations based on patient data, medical records, and real-time inputs.
