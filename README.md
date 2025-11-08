@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# ai-health-care
+An AI-powered healthcare system that analyzes symptoms and medical data to predict diseases, recommend treatments, and assist doctors in diagnosis. It features a smart chatbot, report analysis, and patient record management for efficient and accessible medical care.
+>>>>>>> aa902f9a4fe74991bbe39798f7318a9388254109
